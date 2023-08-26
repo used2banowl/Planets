@@ -1,0 +1,4 @@
+*.Rhistory
+*.dat
+results/
+
